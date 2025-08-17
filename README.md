@@ -19,6 +19,7 @@
 
 Источники:
 
+- Институт Конфуция.
 - <https://resources.allsetlearning.com/chinese/grammar/HSK_1_grammar_points>
 - <https://www.trainchinese.com>
 - <https://hscake.ru>
